@@ -1,5 +1,6 @@
 package com.example.paging3.screens.search
 
+import android.annotation.SuppressLint
 import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -10,6 +11,7 @@ import androidx.paging.compose.collectAsLazyPagingItems
 import coil.annotation.ExperimentalCoilApi
 import com.example.paging3.screens.common.ListContent
 
+@SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @ExperimentalPagingApi
 @ExperimentalCoilApi
 @Composable

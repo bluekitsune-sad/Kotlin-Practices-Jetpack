@@ -1,5 +1,6 @@
 package com.example.paging3.screens.home
 
+import android.annotation.SuppressLint
 import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -10,6 +11,7 @@ import coil.annotation.ExperimentalCoilApi
 import com.example.paging3.navigation.Screen
 import com.example.paging3.screens.common.ListContent
 
+@SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @ExperimentalCoilApi
 @ExperimentalPagingApi
 @Composable
