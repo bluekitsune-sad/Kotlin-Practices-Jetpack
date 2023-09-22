@@ -1,6 +1,6 @@
 # Kotlin-Practices-Jetpack
 
-![Jetpack Logo](jetpack_logo.png)
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" width="36" height="36" alt="Jetbrains" /></a>
 
 Welcome to the Kotlin-Practices-Jetpack repository! This repository contains a collection of Jetpack practices and code examples from various tutorials and resources. Whether you're a beginner looking to learn Jetpack or an experienced developer seeking to refresh your knowledge, you'll find valuable examples and insights here.
 
