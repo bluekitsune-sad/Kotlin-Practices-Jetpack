@@ -54,9 +54,12 @@ Here are some of the Jetpack components covered in this repository:
 Feel free to explore these directories to access code samples and learn more about each Jetpack component.
 Contributing
 
-We welcome contributions from the community! If you have your own Jetpack practices or examples to share, or if you find any issues or improvements, please open a pull request or submit an issue. Check out our contribution guidelines for more details.
-License
-
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of this license.
+#Consider Support this channel:
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mGxiCHqcJybVL7GoSJ6lTTY" align="center">YouTube Tutorial Series</a>
+</p>
+<p align="center">
+  <img src="https://i.postimg.cc/jqwbvNPN/Selectable-5.jpg" href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mGxiCHqcJybVL7GoSJ6lTTY" width="150"height="100">
+</p>
 
 Happy learning and coding with Jetpack in Kotlin!
