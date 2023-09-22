@@ -3,7 +3,6 @@
 <div align="right">
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" width="55" height="55" alt="Jetbrains" /></a> 
 </div>
-
 Welcome to the Kotlin-Practices-Jetpack repository! This repository contains a collection of Jetpack practices and code examples from various tutorials and resources. Whether you're a beginner looking to learn Jetpack or an experienced developer seeking to refresh your knowledge, you'll find valuable examples and insights here.
 
 ## Table of Contents
@@ -32,7 +31,7 @@ To get started with the Kotlin-Practices-Jetpack repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Kotlin-Practices-Jetpack.git
+    git clone https://github.com/your-username/Kotlin-Practices-Jetpack.git
 
     Explore the different directories to access practices and examples related to specific Jetpack components.
 
