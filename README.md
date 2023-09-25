@@ -47,7 +47,7 @@ Here are some of the Jetpack components covered in this repository:
     Navigation
     Data Binding
     WorkManager
-    Paging
+    Paging 3
     Hilt
     Compose
 
